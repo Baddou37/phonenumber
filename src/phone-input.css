@@ -1,0 +1,22 @@
+.PhoneInput {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.PhoneInputInput {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.PhoneInputCountry {
+  margin-right: 10px;
+  margin-top: 10px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
